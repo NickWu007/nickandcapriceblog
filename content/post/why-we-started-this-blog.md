@@ -4,8 +4,8 @@ date: 2021-12-30
 categories:
 - casual
 thumbnailImagePosition: left
-thumbnailImage: images/cookware.jpg
-coverImage: images/kitchen-cover.jpg
+thumbnailImage: //res.cloudinary.com/doxpsvlhl/image/upload/v1640904320/nick%20and%20caprice%20blog/cookware_pslvtm.jpg
+coverImage: //res.cloudinary.com/doxpsvlhl/image/upload/v1640904315/nick%20and%20caprice%20blog/kitchen-cover_flhreb.jpg
 coverMeta: out
 ---
 
