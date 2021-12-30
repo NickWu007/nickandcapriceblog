@@ -1,4 +1,4 @@
-baseURL = 'http://nickandcaprice.com/'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Nick and Caprice's Recipes"
 theme = ["github.com/kakawait/hugo-tranquilpeak-theme"]
