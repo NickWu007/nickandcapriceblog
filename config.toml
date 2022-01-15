@@ -6,6 +6,7 @@ theme = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
+googleAnalytics = "G-PFNXB4EVJC"
 
 [permalinks]
   posts = "/:year/:month/:slug/"
@@ -320,7 +321,6 @@ canonifyurls = true
   #      gravatarEmail =
   # Google Analytics
   #  >> See googleAnalytics
-  #    googleAnalytics =
   # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
   #  fbAdminIds =
   # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
